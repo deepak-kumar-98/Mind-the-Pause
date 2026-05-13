@@ -227,12 +227,14 @@ Fluent Sentence:
 If you use this work, please cite:
 
 ```bibtex
-@inproceedings{kumar2025mindthepause,
-  title     = {Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs},
-  author    = {Kumar, Deepak and Gain, Baban and Ekbal, Asif},
-  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year      = {2025},
-  address   = {Vienna, Austria}
+@misc{kumar2026mindpausedisfluencyawareobjective,
+      title={Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs}, 
+      author={Deepak Kumar and Baban Gain and Asif Ekbal},
+      year={2026},
+      eprint={2605.12242},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.12242}, 
 }
 ```
 
